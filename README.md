@@ -1,16 +1,18 @@
 ## Hi there 👋
+### 👋 Hi, I’m Abhijeet Semliya
 
-<!--
-**abhijeet-java-dev/abhijeet-java-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (7th Sem) | RGPV University  
+💻 Passionate Java Developer | Exploring Spring Boot, JSP/Servlet  
+🌐 Skills: Java, Advanced Java, C/C++, HTML, CSS  
+📂 Currently building: E-Commerce Web App (Java)  
+📬 Reach me: abhisem27@gmail.com  
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **Student Management System** – Java + JDBC + MySQL
+- **Simple Chat App** – Socket Programming in Java
+- **E-Commerce Website** – Java + JSP + Servlet (Major Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/abhijeet-semliya-685459273/) | [Email](mailto:abhisem27@gmail.com)
+
+
